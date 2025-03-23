@@ -1,0 +1,230 @@
+[
+  {
+    "text": "Hi",
+    "label": "greeting"
+  },
+  {
+    "text": "Hello there",
+    "label": "greeting"
+  },
+  {
+    "text": "Good morning",
+    "label": "greeting"
+  },
+  {
+    "text": "Hey, how are you?",
+    "label": "greeting"
+  },
+  {
+    "text": "I would like to order a pepperoni pizza",
+    "label": "order_pizza"
+  },
+  {
+    "text": "Can I have a large pepperoni pizza please?",
+    "label": "order_pizza"
+  },
+  {
+    "text": "I'd like a medium margherita pizza",
+    "label": "order_pizza"
+  },
+  {
+    "text": "I want a vegetarian pizza",
+    "label": "order_pizza"
+  },
+  {
+    "text": "Can you get me a small cheese pizza?",
+    "label": "order_pizza"
+  },
+  {
+    "text": "Do you have a pizza menu?",
+    "label": "menu_question"
+  },
+  {
+    "text": "What pizzas do you offer?",
+    "label": "menu_question"
+  },
+  {
+    "text": "Show me your menu",
+    "label": "menu_question"
+  },
+  {
+    "text": "What are your pizza options?",
+    "label": "menu_question"
+  },
+  {
+    "text": "Bye",
+    "label": "goodbye"
+  },
+  {
+    "text": "Goodbye",
+    "label": "goodbye"
+  },
+  {
+    "text": "See you later",
+    "label": "goodbye"
+  },
+  {
+    "text": "Thanks, bye",
+    "label": "goodbye"
+  },
+  {
+    "text": "Hi",
+    "label": "greeting"
+  },
+  {
+    "text": "Hello there",
+    "label": "greeting"
+  },
+  {
+    "text": "Good morning",
+    "label": "greeting"
+  },
+  {
+    "text": "Hey!",
+    "label": "greeting"
+  },
+  {
+    "text": "Greetings",
+    "label": "greeting"
+  },
+  {
+    "text": "Hi, how are you?",
+    "label": "greeting"
+  },
+  {
+    "text": "Hello, what's up?",
+    "label": "greeting"
+  },
+  {
+    "text": "Good afternoon",
+    "label": "greeting"
+  },
+  {
+    "text": "Hey there",
+    "label": "greeting"
+  },
+  {
+    "text": "Yo!",
+    "label": "greeting"
+  },
+  {
+    "text": "I would like to order a pepperoni pizza.",
+    "label": "order_pizza"
+  },
+  {
+    "text": "Can I get a large pepperoni pizza please?",
+    "label": "order_pizza"
+  },
+  {
+    "text": "I'd like a medium margherita pizza.",
+    "label": "order_pizza"
+  },
+  {
+    "text": "I want a vegetarian pizza.",
+    "label": "order_pizza"
+  },
+  {
+    "text": "Can you get me a small cheese pizza?",
+    "label": "order_pizza"
+  },
+  {
+    "text": "Please prepare a large pizza with extra cheese.",
+    "label": "order_pizza"
+  },
+  {
+    "text": "I need a pizza with mushrooms and olives.",
+    "label": "order_pizza"
+  },
+  {
+    "text": "Order me a supreme pizza with all the toppings.",
+    "label": "order_pizza"
+  },
+  {
+    "text": "I'd like to order a deluxe pizza.",
+    "label": "order_pizza"
+  },
+  {
+    "text": "I want a double pepperoni pizza.",
+    "label": "order_pizza"
+  },
+  {
+    "text": "Do you have a pizza menu?",
+    "label": "menu_question"
+  },
+  {
+    "text": "What pizzas do you offer?",
+    "label": "menu_question"
+  },
+  {
+    "text": "Show me your menu, please.",
+    "label": "menu_question"
+  },
+  {
+    "text": "What are your pizza options?",
+    "label": "menu_question"
+  },
+  {
+    "text": "Can I see the list of pizzas?",
+    "label": "menu_question"
+  },
+  {
+    "text": "What varieties of pizza are available?",
+    "label": "menu_question"
+  },
+  {
+    "text": "Do you have a vegetarian option on your menu?",
+    "label": "menu_question"
+  },
+  {
+    "text": "What toppings are available?",
+    "label": "menu_question"
+  },
+  {
+    "text": "Tell me about your pizza specials.",
+    "label": "menu_question"
+  },
+  {
+    "text": "What's on your pizza menu today?",
+    "label": "menu_question"
+  },
+  {
+    "text": "Bye",
+    "label": "goodbye"
+  },
+  {
+    "text": "Goodbye",
+    "label": "goodbye"
+  },
+  {
+    "text": "See you later",
+    "label": "goodbye"
+  },
+  {
+    "text": "Thanks, bye",
+    "label": "goodbye"
+  },
+  {
+    "text": "Talk to you later",
+    "label": "goodbye"
+  },
+  {
+    "text": "Farewell",
+    "label": "goodbye"
+  },
+  {
+    "text": "Catch you later",
+    "label": "goodbye"
+  },
+  {
+    "text": "Bye bye",
+    "label": "goodbye"
+  },
+  {
+    "text": "Later",
+    "label": "goodbye"
+  },
+  {
+    "text": "Have a nice day, goodbye",
+    "label": "goodbye"
+  }
+]
